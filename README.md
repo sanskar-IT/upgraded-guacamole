@@ -243,4 +243,6 @@ This project is designed for educational and research purposes in railway traffi
 
 ---
 
-**Note**: This advanced system now handles complex emergency scenarios, multi-train cascading events, dynamic route changes, and advanced prediction capabilities that were previously unsupported.
+
+ This advanced system now handles complex emergency scenarios, multi-train cascading events, dynamic route changes, and advanced prediction capabilities that were previously unsupported.
+
